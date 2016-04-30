@@ -1,0 +1,36 @@
+
+	.combo-box:hover{
+	
+	-fx-background-color: #A92F41;
+	
+	}
+	.combo-box-popup .list-view .list-cell .text {
+	-fx-fill: #E5DFC5;
+	-fx-font-family: '2Dumb';
+	}
+	.combo-box-popup .list-view .list-cell:hover {
+	-fx-background-color: white;
+	}
+	
+	.combo-box-popup .list-view .list-cell{
+	-fx-background-color: #A92F41;
+	}
+	.combo-box{
+	-fx-background-color: #A92F41;
+	-fx-color: #E5DFC5;
+	}
+	.combo-box .text{
+	-fx-fill: #E5DFC5;
+	}
+	.combo-box .arrow-button
+	{
+  	-fx-opacity: 0.0;
+	}
+	
+	.button:hover{
+	-fx-background-color: #E5DFC5;
+	}
+	.button .text{
+	-fx-fill: #E5DFC5;
+	-fx-text-size: 16px;
+	}
